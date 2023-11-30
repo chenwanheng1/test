@@ -1,0 +1,4 @@
+# ninja log v5
+1	64	7230608004452495	CMakeFiles/test.dir/hello.cpp.obj	eb0dec025a8d8e27
+1	279	7230608598762051	CMakeFiles/test.dir/hello.cpp.obj	eb0dec025a8d8e27
+280	363	7230608599568287	test.exe	cc27526540eee7d9
